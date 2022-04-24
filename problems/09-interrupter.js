@@ -19,7 +19,7 @@ console.log(rudePerson2("I love dogs")); // prints "I yo love yo dogs"
 // your code here!
 const interrupter = (interruptingWord) => {
     return rude = (interrupter) => {
-      
+      // take words into array, join them with interruupter?
       return interrupter + interruptingWord;
     };
 
